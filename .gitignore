@@ -1,0 +1,9 @@
+# VS Code
+.vscode/
+
+# Build files
+bin/
+build/
+
+# Driver
+*/OUR_MIFARE.dll
